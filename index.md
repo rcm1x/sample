@@ -1,6 +1,6 @@
-Ссылка на пример виджета по подбору колясок: https://rcm1x.github.io/sample/
+Ссылка на пример виджета по подбору колясок: [https://rcm1x.github.io/sample/wizard](https://rcm1x.github.io/sample/wizard)
 
-Исходный код примера: https://github.com/rcm1x/sample/blob/master/index.html
+Исходный код примера: [https://github.com/rcm1x/sample/blob/master/wizard.html](https://github.com/rcm1x/sample/blob/master/wizard.html)
 
 
 Блок кода ниже необходимо вставить в шаблон магазина, между тегами ```<head>```
@@ -36,4 +36,4 @@ wa?: '+7[0-9]{10}'
 tg?: string
 ```
 
-Техническая поддержка и помощь в подключении: support@recommendix.com
+Техническая поддержка и помощь в подключении: [support@recommendix.com](mailto:support@recommendix.com)
